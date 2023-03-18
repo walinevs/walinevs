@@ -1,6 +1,6 @@
 ## Olá! Eu sou Walison Neves 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]("https://www.linkedin.com/in/walison-ferreira-da-silva-neves-116b23179/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/walison-ferreira-da-silva-neves-116b23179/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/walinevs_/)
 
 ![Neves GitHub stats](https://github-readme-stats.vercel.app/api?username=walinevs&show_icons=true&theme=dracula)
