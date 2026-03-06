@@ -1,11 +1,32 @@
-## Olá! Eu sou Walison Neves 👋
+## Olá! Eu sou Walison Ferreira 👋
+
+🎓Formado em Análise e Desenvolvimento de Sistemas
+📊Pós-graduação em Ciência de Dados e Big Data
+💻Focado em Análise de Dados
+
+Tenho interesse em transformar dados em informações úteis para tomada de decisão.
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/walison-ferreira-da-silva-neves-116b23179/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/walinevs_/)
+
 
 ![Neves GitHub stats](https://github-readme-stats.vercel.app/api?username=walinevs&show_icons=true&theme=dracula)
 
-## Tecnologias que eu uso no meu dia
+## 🚀 Tecnologias e Ferramentas
+
+- Python
+- SQL
+- Power BI
+- Excel
+---
+
+## 📊 Projetos de Análise de Dados
+
+## 📚 Atualmente estudando
+
+- SQL para análise de dados
+- Python para análise de dados
+- Business Intelligence
 
 <div style="display: inline_block"><br/>
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
