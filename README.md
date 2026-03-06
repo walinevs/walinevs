@@ -6,16 +6,19 @@
 
 Tenho interesse em transformar dados em informações úteis para tomada de decisão.
 
+---
+
 ## 🚀 Tecnologias e Ferramentas
 
 - Python
 - SQL
 - Power BI
 - Excel
+  
 ---
 
 ## 📊 Projetos de Análise de Dados
-
+---
 ## 📚 Atualmente estudando
 
 - SQL para análise de dados
@@ -23,6 +26,7 @@ Tenho interesse em transformar dados em informações úteis para tomada de deci
 - Excel para Análise de dados
 - Power BI Business Intelligence
 
+---
 
 ## 🌎 Conecte-se comigo
 
