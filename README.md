@@ -1,8 +1,8 @@
 ## Olá! Eu sou Walison Ferreira 👋
 
-🎓Formado em Análise e Desenvolvimento de Sistemas
-📊Pós-graduação em Ciência de Dados e Big Data
-💻Focado em Análise de Dados
+🎓Formado ADS  
+📊Pós-graduação em Ciência de Dados e Big Data  
+💻Focado em Análise de Dados  
 
 Tenho interesse em transformar dados em informações úteis para tomada de decisão.
 
