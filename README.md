@@ -1,4 +1,4 @@
-## Olá! Eu sou Walison Ferreira 👋
+## Olá! Eu sou Walison👋
 
 🎓Formado ADS  
 📊Pós-graduação em Ciência de Dados e Big Data  
