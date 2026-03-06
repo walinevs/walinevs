@@ -31,5 +31,5 @@ Tenho interesse em transformar dados em informações úteis para tomada de deci
 ## 🌎 Conecte-se comigo
 
 [www.linkedin.com/in/walison-ferreira-116b23179](https://www.linkedin.com/in/walison-ferreira-116b23179/)
-[Instagram](https://www.instagram.com/walisonfr_/)
+
 
